@@ -1,0 +1,357 @@
+/*
+  Free to use CSS by Katie (#106445).
+  This code may be altered, edited, or re-uploaded. 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre|Cinzel+Decorative');
+body {
+	background: url('https://puu.sh/CRyWj/f8f3de3635.jpg') center center fixed;
+	background-size: 100%;
+	font-family: 'Averia Serif Libre', cursive;
+	color: black;
+}
+
+.center.b {
+	color: black !important;
+}
+
+.feature {
+	background: rgba(141, 107, 42, 0.6) !important;
+	color: black !important;
+	border: none !important;
+}
+
+input[type="button"],
+input[type="submit"],
+input[type="submit"]:hover {
+	border: none !important;
+}
+
+.topbar {
+	background: rgba(96, 107, 109, 0.6);
+	border: none;
+	border-top: none;
+	color: black;
+	border-radius: 5px;
+	font-family: 'Averia Serif Libre', cursive;
+}
+
+.topbar li a {
+	color: black !important;
+}
+
+.navbar {
+	background: rgba(141, 107, 42, 0.6);
+	border-bottom: none;
+	font-family: 'Cinzel Decorative', cursive;
+	color: white;
+	border-radius: 5px;
+}
+
+.navbar li a {
+	color: white !important;
+}
+
+.navbar li a:hover {
+	background: rgba(96, 107, 109, 0.6) !important;
+}
+
+.container.main {
+	background: rgba(166, 157, 136, 0.4);
+	box-shadow: none;
+	border: none;
+	border-radius: 5px;
+}
+
+.col-md-9 {
+	background: none;
+	border-right: none;
+}
+
+.breadcrumb {
+	background: rgba(96, 107, 109, 0.6);
+	color: black !important;
+}
+
+.breadcrumb .active {
+	color: black;
+}
+
+.alert {
+	background: rgba(96, 107, 109, 0.6);
+	border: none;
+	color: black;
+}
+
+.alert-warning,
+.alert-danger {
+	background: rgba(96, 107, 109, 0.6);
+	color: black;
+}
+
+div.left {
+	background: rgba(141, 107, 42, 0.6);
+	color: black;
+	border: none;
+}
+
+.panel {
+	background: rgba(180, 144, 60, 0.6) !important;
+	box-shadow: none !important;
+	border: none !important;
+	color: black !important
+}
+
+.progress {
+	background: rgba(166, 157, 136, 0.6);
+	color: black !important;
+}
+
+.progress-div {
+	color: black;
+}
+
+.progress-bar {
+	background: rgba(96, 107, 109, 0.8);
+	border: none !important;
+	border-radius: 5px;
+}
+
+.s-chat-message:nth-child(even) {
+	background: rgba(166, 157, 136, 0.6) !important;
+	border: none !important;
+}
+
+.s-chat-message:nth-child(odd) {
+	background: rgba(166, 157, 136, 0.6) !important;
+	border: none !important;
+}
+
+.s-chat-message__pinned {
+	background: rgba(141, 107, 42, 0.6) !important;
+	color: black !important;
+	border: none !important;
+}
+
+.s-chat-message_timestamp {
+	color: black !important;
+}
+
+div#chatMessageContainer {
+	border: none !important;
+}
+
+button#label_currentChannel {
+	border: none !important;
+	background: rgba(141, 107, 42, 0.6) !important;
+}
+
+h1 {
+	color: #647f88;
+	font-size: 30px;
+	text-align: center;
+	text-shadow: 1px 1px rgba(255, 255, 255, 0.8);
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+small {
+	color: black !important;
+}
+
+h2 {
+	color: black;
+	font-size: 24px;
+	text-align: center;
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+h3 {
+	color: black !important;
+	font-size: 24px !important
+}
+
+.table {
+	background: rgba(166, 157, 136, 0.6);
+	border: none !important;
+	border-collapse: separate;
+	border-radius: 5px;
+}
+
+.top,
+.bottom,
+th {
+	background: rgba(141, 107, 42, 0.6) !important;
+	color: black !important;
+	border-radius: 5px;
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+.table .left {
+	background: rgba(210, 183, 138, 0.6)
+}
+
+.inner-table .left {
+	background: rgba(96, 107, 109, 0.6) !important;
+}
+
+.inner-table .right {
+	background: rgba(210, 183, 138, 0.6)
+}
+
+.right_odd {
+	background: #fee3c5 !important;
+	border: none !important;
+}
+
+.right_cub {
+	background: #fee3c5 !important;
+}
+
+.item-header {
+	background: rgba(96, 107, 109, 0.6) !important;
+	color: black !important;
+}
+
+.item {
+	background: rgba(210, 183, 138, 0.6) !important;
+	border: none !important;
+}
+
+.sub_menu {
+	background: rgba(210, 183, 138, 0.6) !important;
+}
+
+.sub_menu_item_selected {
+	background: rgba(96, 107, 109, 0.6) !important;
+}
+
+.cave-grid,
+.mound-grid {
+	background: rgba(141, 107, 42, 0.6);
+	border: none !important;
+	color: black !important
+}
+
+a:link,
+a:visited {
+	color: black !important;
+}
+
+table.table.auto {
+	color: black !important;
+}
+
+a:hover {
+	color: #647f88 !important;
+}
+
+input,
+select,
+textarea {
+	background: rgba(210, 183, 138, 0.6) !important;
+	border: none !important;
+	border-radius: 5px;
+	box-shadow: none !important;
+	color: black !important;
+	text-shadow: none !important;
+}
+
+.boxcontainer {
+	background: none;
+	height: auto;
+	padding: 0px;
+	display: flex;
+	justify-content: center
+}
+
+.Box1 {
+	float: left;
+	background: rgba(96, 107, 109, 0.6);
+	color: black;
+	padding: 25px;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box1:hover {
+	overflow-y: auto;
+}
+
+.Box2 {
+	float: left;
+	background: rgba(96, 107, 109, 0.6);
+	color: black;
+	padding: 25px;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box2:hover {
+	overflow-y: auto;
+}
+
+.Box3 {
+	float: left;
+	background: rgba(96, 107, 109, 0.6);
+	color: black;
+	padding: 25px;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	height: 250px;
+	width: 820px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box3:hover {
+	overflow-y: auto;
+}
+
+.credit {
+	background: rgba(141, 107, 42, 0.6);
+	color: white;
+	padding: 10px;
+	border: none;
+	position: fixed;
+	text-align: center;
+	border-radius: 5px;
+	left: 0px;
+	bottom: 0px;
+	width: 170px;
+	height: 40px;
+	overflow: auto;
+	font-size: 12px;
+}
+
+::-webkit-scrollbar {
+	width: 7px;
+	height: 0px;
+}
+
+::-webkit-scrollbar-track {
+	background: #606b6d;
+	border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #182429;
+	border-radius: 5px;
+}
+
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
+	content: url('https://puu.sh/CRzqN/a0ca510c7f.png');
+}
