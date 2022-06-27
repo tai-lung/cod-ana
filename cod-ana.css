@@ -147,7 +147,7 @@ button#label_currentChannel {
 }
 
 h1 {
-	color: #647f88;
+	color: rgba(18, 18, 18);
 	font-size: 30px;
 	text-align: center;
 	text-shadow: 1px 1px rgba(255, 255, 255, 0.8);
